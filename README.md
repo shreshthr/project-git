@@ -1,2 +1,4 @@
 # project-git
-This project is about using Git 💯
+
+Created a site using Tailwind 🔥
+
